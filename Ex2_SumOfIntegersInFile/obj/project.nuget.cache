@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8qRXgU435DVYTOcbThf3B5X2FKF5K3F1Zx8PTKECVja8qBH/tk8LyY0agNVbhu9001zE4xHE7RAVelo+Ylbqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Micropact Exercises\\Ex2_SumOfIntegersInFile\\Ex2_SumOfIntegersInFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

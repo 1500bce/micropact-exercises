@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\bin\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.exe
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\bin\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.deps.json
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\bin\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.runtimeconfig.json
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\bin\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\bin\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.dll
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\bin\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.pdb
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\obj\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\obj\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\obj\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.AssemblyInfo.cs
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\obj\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\obj\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.dll
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\obj\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.pdb
+C:\Users\admin\source\repos\Micropact Exercises\Ex2_SumOfIntegersInFile\obj\Debug\netcoreapp3.1\Ex2_SumOfIntegersInFile.genruntimeconfig.cache

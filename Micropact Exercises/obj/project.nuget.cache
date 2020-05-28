@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z60zIXCUX2hEdk0U/j4Q4em93Qa+vkAyoWZ4t8eEgekB2cH92lF37UTsDJvLl6SqXVieSK1P27XOO9ymZ27WGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Micropact Exercises\\Micropact Exercises\\Micropact Exercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
