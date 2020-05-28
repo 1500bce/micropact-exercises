@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Micropact Exercises\Helper\bin\Debug\netstandard2.0\Helper.deps.json
+C:\Users\admin\source\repos\Micropact Exercises\Helper\bin\Debug\netstandard2.0\Helper.dll
+C:\Users\admin\source\repos\Micropact Exercises\Helper\bin\Debug\netstandard2.0\Helper.pdb
+C:\Users\admin\source\repos\Micropact Exercises\Helper\obj\Debug\netstandard2.0\Helper.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Micropact Exercises\Helper\obj\Debug\netstandard2.0\Helper.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Micropact Exercises\Helper\obj\Debug\netstandard2.0\Helper.AssemblyInfo.cs
+C:\Users\admin\source\repos\Micropact Exercises\Helper\obj\Debug\netstandard2.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Micropact Exercises\Helper\obj\Debug\netstandard2.0\Helper.dll
+C:\Users\admin\source\repos\Micropact Exercises\Helper\obj\Debug\netstandard2.0\Helper.pdb

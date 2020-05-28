@@ -13,3 +13,6 @@ C:\Users\admin\source\repos\Micropact Exercises\Remove Character From String\obj
 C:\Users\admin\source\repos\Micropact Exercises\Remove Character From String\obj\Debug\netcoreapp3.1\Ex1_RemoveCharacterFromString.genruntimeconfig.cache
 C:\Users\admin\source\repos\Micropact Exercises\Remove Character From String\obj\Debug\netcoreapp3.1\Remove_Character_From_String.Messages.resources
 C:\Users\admin\source\repos\Micropact Exercises\Remove Character From String\obj\Debug\netcoreapp3.1\Ex1_RemoveCharacterFromString.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Micropact Exercises\Remove Character From String\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\admin\source\repos\Micropact Exercises\Remove Character From String\bin\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\admin\source\repos\Micropact Exercises\Remove Character From String\obj\Debug\netcoreapp3.1\Ex1_RemoveCharacterFromString.csproj.CopyComplete

@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Net.Http.Headers;
+using Helper;
 
 namespace Remove_Character_From_String
 {

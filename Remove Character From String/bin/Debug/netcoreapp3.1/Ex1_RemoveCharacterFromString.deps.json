@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Ex1_RemoveCharacterFromString/1.0.0": {
+        "dependencies": {
+          "Helper": "1.0.0"
+        },
         "runtime": {
           "Ex1_RemoveCharacterFromString.dll": {}
+        }
+      },
+      "Helper/1.0.0": {
+        "runtime": {
+          "Helper.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Ex1_RemoveCharacterFromString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Helper/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
